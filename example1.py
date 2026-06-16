@@ -4,7 +4,7 @@ import pyautogui
 import time
 
 verbose = False
-
+pyautogui.scroll
 
 while True:
     time.sleep(1)
